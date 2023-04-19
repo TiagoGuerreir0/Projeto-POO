@@ -1,0 +1,5 @@
+Nome: Diogo
+Código-Empregado: 1
+Data de Entrada: 26/6/2022
+Categoria: Motorista
+Dias de trabalho: 12
